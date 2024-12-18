@@ -428,7 +428,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "random-keyboard-parts"
+    ]
   },
   "meta": {
     "filename": "Orchid.kicad_pro",
