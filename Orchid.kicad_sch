@@ -3535,6 +3535,28 @@
 		)
 		(uuid "fda598d3-520d-45ed-b63b-882d88b7564a")
 	)
+	(text "1 1"
+		(exclude_from_sim no)
+		(at 186.69 183.642 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1f6cbe28-1286-4dcf-ab61-fa5fecc760cf")
+	)
+	(text "Orchid keyboard V1\n"
+		(exclude_from_sim no)
+		(at 199.39 189.738 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+		)
+		(uuid "ee915a01-8653-40f3-b1e0-1bdf70a74d3e")
+	)
 	(global_label "Col 3_L"
 		(shape input)
 		(at 71.12 41.91 0)
